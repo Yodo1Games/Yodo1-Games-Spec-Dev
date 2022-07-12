@@ -11,7 +11,7 @@ TODO: Add long description of the pod here.
     
     s.license          = { :type => 'MIT', :file => "LICENSE" }
     
-    s.author           = { 'yixian huang' => 'huangyixian@yodo1.com' }
+    s.author           = { 'Yodo1Games' => 'devadmin@yodo1.com' }
     
     s.source           = { :git => 'https://github.com/Yodo1Games/Yodo1-SDK-iOS.git', :tag => "#{s.name}#{s.version}" }
 

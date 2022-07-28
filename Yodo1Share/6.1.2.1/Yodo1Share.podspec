@@ -72,7 +72,7 @@ Pod::Spec.new do |s|
   s.dependency 'Yodo1Commons','6.1.1'
   s.dependency 'Yodo1QQSDK','6.1.0'
 #  s.dependency 'QQSDK','3.5.11'
-  s.dependency 'FBSDKShareKit','12.3.2'
+#  s.dependency 'FBSDKShareKit','12.3.2'
 # s.dependency 'FBSDKShareKit','9.0.0'
   s.dependency 'Weibo_SDK','3.3.0'#'Yodo1WeiboSDK', '5.0.0'
   s.dependency 'WechatOpenSDK', '1.8.7.1'#'Yodo1WeChatSDK', '5.0.0'
